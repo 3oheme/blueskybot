@@ -5,7 +5,7 @@
     "Think in #technique# as the new #technique#",
     "#company# is killing #technique#",
     "You should use #adjective# #technique# to #outcome#",
-    "Don't trust #people# and use a #adjective #technique# if you need to #outcome#",
+    "Don't trust #people# and use a #adjective# #technique# if you need to #outcome#",
     "Follow #people# and #outcome# using a #adjective# #adjective# #technique",
     "To #outcome# try thinking in a #adjective# #technique#",
     "A wise man would use a #adjective# #adjective# #technique# to #outcome#",
